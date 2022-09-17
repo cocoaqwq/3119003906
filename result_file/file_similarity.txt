@@ -1,0 +1,5 @@
+文章 orig_0.8_add.txt 的相似度为: 0.83
+文章 orig_0.8_del.txt 的相似度为: 0.76
+文章 orig_0.8_dis_1.txt 的相似度为: 0.94
+文章 orig_0.8_dis_10.txt 的相似度为: 0.78
+文章 orig_0.8_dis_15.txt 的相似度为: 0.55
